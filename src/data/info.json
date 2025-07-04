@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Bio",
+    "content": "Adaptable and detail-oriented Computer Engineer with hands-on experience in Machine Learning, backend development, and API integration. Known for innovation and problem-solving."
+  },
+  {
+    "id": "2",
+    "title": "Education",
+    "content": "• B.S. in Computer Engineering, National University Bulacan (2020–2024)\n• Accountancy, Business, and Management, Colegio de Calumpit Inc. (2018–2020)"
+  },
+  {
+    "id": "3",
+    "title": "Technical Skills",
+    "content": "• Web & Mobile Development: ReactJS, React Native, Express.js, FastAPI\n• Languages: Python, JavaScript, C++\n• Tools: Git, WebSocket, MQTT, Google Cloud, Docker\n• Databases: MySQL, MongoDB, Firebase\n• AI/ML: DeepFace, OpenCV, YOLO, TensorFlow/Keras"
+  },
+  {
+    "id": "4",
+    "title": "Face Recognition Attendance System",
+    "content": "Developed a freelance attendance tracking system using Python DeepFace for facial recognition, RFID authentication hardware, and a ReactJS frontend + Express.js/MySQL backend."
+  },
+  {
+    "id": "5",
+    "title": "Trash Segregation ML",
+    "content": "Built an AI-powered trash segregation prototype. Trained and fine-tuned classification models achieving >90% sorting accuracy."
+  },
+  {
+    "id": "6",
+    "title": "POS & Inventory System",
+    "content": "Academic project: ReactJS frontend with Express.js/MySQL backend, JWT-based auth, sales and inventory management dashboard."
+  },
+  {
+    "id": "7",
+    "title": "IoT Pet Feeder (Capstone)",
+    "content": "Automated pet feeder controlled via React Native app, with scheduling logic, camera monitoring, and weight-sensor integration on microcontroller."
+  },
+  {
+    "id": "8",
+    "title": "Cemetery Mapping Web App",
+    "content": "Freelance ReactJS + Express.js project integrating Google Maps API and MySQL to manage and visualize grave locations."
+  },
+  {
+    "id": "9",
+    "title": "E-Trucking Real-Time GPS Tracking",
+    "content": "Logistics tracking system: ReactJS/React Native frontends, Express.js/MySQL backend, real-time location updates with role-based access."
+  },
+  {
+    "id": "10",
+    "title": "Real-Time Location Sharing App",
+    "content": "Personal project like Life360 using React Native, MQTT, and Express.js. Implements group-based secure location sharing and offline sync."
+  }
+]
