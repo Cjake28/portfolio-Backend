@@ -8,13 +8,11 @@ import { errorHandler } from "./middleware/errorHandler"
 import assistantRouter from "./routes/assistandRoutes";
 import sendEmailRouter from "./routes/sendEmail.route";
 
-
-
 import "dotenv/config"
 
 export const app = express();
 
-const allowedOrigins = ['http://localhost:5173', 'http://localhost:5174'];
+const allowedOrigins = ['https://jakesupnet.up.railway.app'];
 
 app.use(cors({
   origin: (origin, callback) => {
