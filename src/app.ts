@@ -12,7 +12,7 @@ import "dotenv/config"
 
 export const app = express();
 
-const allowedOrigins = ['https://jakesupnet.up.railway.app'];
+const allowedOrigins = ['https://jakesupnet.up.railway.app', 'https://portfolio.jakesupnet.online'];
 
 app.use(cors({
   origin: (origin, callback) => {
